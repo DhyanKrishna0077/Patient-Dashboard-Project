@@ -4,7 +4,7 @@ A modern, responsive healthcare dashboard for managing patient information, vita
 
 ## Features
 
-    **Overview Page**
+   **Overview Page**
 - **Patient Information** - Complete demographic and contact details
 - **Critical Alerts** - Real-time notifications for urgent medical conditions
 - **Vital Signs Monitoring** - Blood pressure, heart rate, temperature, and oxygen saturation
