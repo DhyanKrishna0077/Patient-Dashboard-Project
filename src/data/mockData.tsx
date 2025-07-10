@@ -571,12 +571,12 @@ export const mockMedicationsData = {
       dosage: '400mcg',
       frequency: 'Once daily',
       route: 'Oral',
-      prescribedBy: 'Dr. Jennifer Lee, MD',
+      prescribedBy: 'Dr. Vijayan, MD',
       startDate: '2024-01-13',
       endDate: null,
       status: 'active' as const,
-      indication: 'Pregnancy - neural tube defect prevention',
-      instructions: 'Continue throughout pregnancy',
+      indication: 'when the wheezing starts',
+      instructions: 'Stop if the wheezing stops',
       refillsRemaining: 6
     }
   ],
